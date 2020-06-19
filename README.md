@@ -1,3 +1,3 @@
 # PyNet
 
-![alt text](https://ibb.co/vPf72J4)
+![banner](https://i.ibb.co/9TBFRqH/pynet-banner.png)
