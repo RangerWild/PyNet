@@ -28,7 +28,3 @@ args = vars(ap.parse_args())
 data = []
 labels = []
 
-# grabs the image and randomly shuffles it
-imagePaths = sorted(list(paths.list_image(args["dataset"])))
-random.seed(42)
-random.shuffle(imagePaths)
