@@ -2,7 +2,7 @@
 
 ## How to contribute
 
-### Prerequisites:
+Prerequisites:
 
 * Familiarity with pull requests and issues
 * Knowledge of Markdown for editing .md files
